@@ -1,6 +1,7 @@
 # Power-BI-Projects
 **Project 1: **
 **Blinkit Store performance and product insight report**
+
 This repository features a comprehensive Power BI dashboard designed to explore Blinkit’s store and product performance. The project covers the full analytics pipeline—data cleaning, modelling, DAX calculations, and business insight generation—based on real-world retail scenarios.
 
 
