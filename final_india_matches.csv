@@ -1,0 +1,12 @@
+season,team1,team2,date,match_number,venue,city,toss_winner,toss_decision,player_of_match,umpire1,umpire2,reserve_umpire,match_referee,winner,winner_runs,winner_wickets,match_type,india_win
+2023/24,Australia,India,2023/10/08,5,MA Chidambaram Stadium,Chennai,Australia,bat,KL Rahul,CB Gaffaney,RA Kettleborough,AT Holdstock,RB Richardson,India,,6.0,Group,1
+2023/24,Afghanistan,India,2023/10/11,9,Arun Jaitley Stadium,Delhi,Afghanistan,bat,RG Sharma,MA Gough,PR Reiffel,Sharfuddoula,JJ Crowe,India,,8.0,Group,1
+2023/24,Pakistan,India,2023/10/14,12,Narendra Modi Stadium,Ahmedabad,India,field,JJ Bumrah,M Erasmus,RK Illingworth,CB Gaffaney,AJ Pycroft,India,,7.0,Group,1
+2023/24,Bangladesh,India,2023/10/19,17,Maharashtra Cricket Association Stadium,Pune,Bangladesh,bat,V Kohli,AT Holdstock,RA Kettleborough,M Erasmus,AJ Pycroft,India,,7.0,Group,1
+2023/24,New Zealand,India,2023/10/22,21,Himachal Pradesh Cricket Association Stadium,Dharamsala,India,field,Mohammed Shami,AT Holdstock,MA Gough,Praveen Sen,AJ Pycroft,India,,4.0,Group,1
+2023/24,India,England,2023/10/29,29,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,England,field,RG Sharma,AT Holdstock,RJ Tucker,CM Brown,RB Richardson,India,100.0,,Group,1
+2023/24,India,Sri Lanka,2023/11/02,33,Wankhede Stadium,Mumbai,Sri Lanka,field,Mohammed Shami,CM Brown,PR Reiffel,RK Illingworth,JJ Crowe,India,302.0,,Group,1
+2023/24,India,South Africa,2023/11/05,37,Eden Gardens,Kolkata,India,bat,V Kohli,HDPK Dharmasena,PR Reiffel,AG Wharf,AJ Pycroft,India,243.0,,Group,1
+2023/24,India,Netherlands,2023/11/12,45,M Chinnaswamy Stadium,Bengaluru,India,bat,SS Iyer,CB Gaffaney,MA Gough,CM Brown,RB Richardson,India,160.0,,Group,1
+2023/24,India,New Zealand,2023/11/15,46,Wankhede Stadium,Mumbai,India,bat,Mohammed Shami,RK Illingworth,RJ Tucker,AT Holdstock,AJ Pycroft,India,70.0,,Semi Final,1
+2023/24,India,Australia,2023/11/19,48,Narendra Modi Stadium,Ahmedabad,Australia,field,TM Head,RK Illingworth,RA Kettleborough,CB Gaffaney,AJ Pycroft,Australia,,6.0,Final,0
